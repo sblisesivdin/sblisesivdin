@@ -1,9 +1,9 @@
 ## **Sefer Bora Lişesivdin**, Professor of Physics, PhD, SMIEEE
 
 ## About
-I'm a physics engineer academic with over eighteen years of experience.
+I'm a physics engineer academic with over twenty years of experience.
 
-I'm living in Ankara, Turkey. I am married and a father of a lovely boy.
+I'm living in Ankara, Türkiye. I am married and a father of a lovely boy.
 
 ## Work
 Presently, I am working as a faculty member at [Gazi University](https://www.gazi.edu.tr). I am principal investigator of [Low-Dimensional Materials and Systems Research Group](https://lrgresearch.org) where we are working on experimental and computational investigations of low-dimensional or bulk systems with defects and impurities. 
