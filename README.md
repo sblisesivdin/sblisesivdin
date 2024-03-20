@@ -21,7 +21,7 @@ Also, you may be interested to see my [OrcID](https://orcid.org/0000-0001-9635-6
 ## Some links
 - [LRG](https://lrgresearch.org) - Low-Dimensional Materials and Systems Research Group.
 - [gpaw-tools](http://www.lrgresearch.org/gpaw-tools/) - Collection of Python scripts that use ASE and GPAW for performing Density Functional Theory (DFT) calculations. I am the lead developer.
-- [Aestimo 1D](http://www.aestimosolver.org/) - Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. I am one of the main developers.
+- [Aestimo 1D](https://aestimosolver.github.io/aestimo/) - Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. I am one of the main developers.
 - [Biscuit](https://sblisesivdin.github.io/biscuit/)- Biscuit is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. I am the maintainer of this theme.
 
 ## Contact
